@@ -1,0 +1,12 @@
+{
+  "name": "lnb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lirunkai/lnb.git",
+  "author": "lirunkai <lirunkai@vipkid.com.cn>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "rollup": "^0.63.4"
+  }
+}
